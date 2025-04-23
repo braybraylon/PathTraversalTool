@@ -45,7 +45,7 @@ Clone this repository to your local machine:
 
 
 Copy
-git clone https://github.com/your-username/bray-traversal-automata.git
+git clone https://github.com/braybraylon/PathTraversalTool.git
 cd bray-traversal-automata
 Step 2: Install Dependencies
 Ensure all dependencies are installed as per the "Prerequisites" section above. If you're using a package manager, install them system-wide.
